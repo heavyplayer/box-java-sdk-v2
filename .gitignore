@@ -13,3 +13,12 @@ local.properties
 BoxJavaLibraryV2.jar
 .DS_Store
 .gradle
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+out
+gen-external-apklibs
